@@ -1,0 +1,19 @@
+.mainHeader {
+    color: darkorchid;
+}
+.sectionHeader{
+    color: darkgreen;
+}
+p {
+    color: brown;
+}
+
+body {
+    background-color: #cccccc;
+}
+.paragraphText{
+    font-family: fantasy;
+}
+#Programms{
+    background: lavenderblush;
+}
